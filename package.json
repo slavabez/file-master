@@ -4,10 +4,12 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && next export",
     "start": "next start"
   },
   "dependencies": {
+    "@aws-amplify/ui-react": "^0.2.5",
+    "aws-amplify": "^3.0.10",
     "next": "9.3.6",
     "react": "16.13.1",
     "react-dom": "16.13.1"

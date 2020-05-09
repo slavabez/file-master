@@ -10,6 +10,14 @@
             "StackName": "amplify-filemaster-dev-162507",
             "StackId": "arn:aws:cloudformation:eu-central-1:621101817067:stack/amplify-filemaster-dev-162507/5df14950-91df-11ea-8547-06a619e5de86",
             "AmplifyAppId": "dghybulc5a2hy"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "dghybulc5a2hy",
+                    "type": "manual"
+                }
+            }
         }
     }
 }
